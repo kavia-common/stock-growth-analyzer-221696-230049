@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/stock-growth-analyzer-221696-230049/stock_growth_frontend"
+}
